@@ -61,4 +61,4 @@ async def on_message(message):
         else:
             await message.channel.send("Please provide a prompt after the !ai command!")
 
-client.run("MTMwODcwNjI2MjM3MTkzMDEzMw.G9S3GK.dS8AMjbmTbFrDm6UXH3L_UZDNrBMZMnnQ66vNg")
+client.run("MTMwODcwNjI2MjM3MTkzMDEzMw.GLj4fV.D1iGX_oMtvq-3Fu15KtkmmqFgeJx2UbyH-TKB8")
